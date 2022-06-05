@@ -1,7 +1,9 @@
-# U2-PRGRAMACI-N-VISUAL-memo 
-rama
+# Memorama 
 
-grupo:  5322IS
--Alemán Perez  Natali Joselin 
--Angel  Velasco Marco Joel
--de la  Cruz Medina Jose   Eduardo 
+Grupo: 5322IS
+
+Integrantes:
+- Alemán Pérez Natali Joselin 
+- Ángel Velasco Marco Joel
+- de la Cruz Medina José Eduardo
+
